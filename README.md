@@ -22,4 +22,4 @@
 
 ## Output
 ##### Page 1
-![Page 1](UITemplet/page1.png)
+![Page 1](1.jpg)
